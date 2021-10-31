@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "jest": "^24.8.0",
+    "jest-dev-server": "^5.0.3"
+  },
+  "name": "teamprofilegen",
+  "description": "This Project is about if a manager wanted to generate a webpage that displays there team's basic info so that they can have quick access to their emails and GitHub profiles. # Table of contents: - Demonstration - Installation - Usage - Questions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
