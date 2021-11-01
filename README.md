@@ -17,6 +17,6 @@ Here is a link to the video: https://www.youtube.com/watch?v=LZu5mpe3IQo
 # Usage
 A user can create database of employees and basic infomation
 # Questions
-If you have any questions or concerns please feel free to reach me at: Kperez22692@gmail.com
+If you have any questions or concerns please feel free to reach me at: jonathan_whiting@ymail.com
 and you can follow me at GitHub at https://www.github.com/jwhiting23# Team-profile-generator
 # Team-Profile-Generator
